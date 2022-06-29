@@ -4,7 +4,7 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 
 [FIT](https://fit.cvut.cz/en) / Software Engineering &nbsp; ![](https://img.shields.io/badge/-Czech_Technical%20University-informational)
 
-🧑‍💻 Python Junior Developer 
+🧑‍💻 Python (Django) Junior Developer 
 
 ### Skills and Tools
 
