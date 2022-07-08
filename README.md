@@ -6,9 +6,27 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 
 🧑‍💻 Python (Django) Junior Developer 
 
-### Skills and Tools
+<img src="https://gpvc.arturio.dev/mikezigberman" alt="Viewers"/> &nbsp; <!-- img src="https://img.shields.io/github/downloads/mikezigberman/areg-sdk/total.svg"/ -->
 
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+### Skills
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
+
+### Databases
+
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+
+### Tools
+
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<!-- <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
@@ -20,10 +38,7 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 
 <img align="left" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" />
-
-<br>
-<br>
+<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" /> -->
 
 ### Software projects
 
@@ -36,3 +51,10 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 |[**Forum**](https://github.com/mikezigberman/forumforgamersdjango) | Simple forum in django | ![](https://img.shields.io/badge/-python-blue) | | ![](https://img.shields.io/badge/-javascript-yellow)
 |[**OnlyFans Clone**](https://github.com/mikezigberman/onlyfansclone) | A clone of one website for 18+  | ![](https://img.shields.io/badge/-python-blue) |
 |[**E-commerce shop**](https://github.com/mikezigberman/onlineshop) | E-commerce shop | ![](https://img.shields.io/badge/-python-blue) |
+
+### Stats
+
+![Mike Zigberman github stats](https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Mike Zigberman Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&count_private=true&theme=gruvbox)
+
