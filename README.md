@@ -17,7 +17,7 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 
 ### Databases
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![Postgresql](https://img.shields.io/badge/-PostgreSQL-%232c3e50?style=flat-square&logo=Postgresql)
 
 ### Tools
 
