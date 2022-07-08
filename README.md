@@ -54,7 +54,10 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 
 ### Stats
 
-![Mike Zigberman github stats](https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<!-- ![Mike Zigberman github stats](https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Mike Zigberman Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&count_private=true&theme=gruvbox)
+![Mike Zigberman Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&count_private=true&theme=gruvbox) -->
+
+| <a href="https://github.com/mikezigberman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Mike's GitHub stats" /></a> | <a href="https://github.com/mikezigberman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
