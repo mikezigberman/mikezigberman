@@ -48,15 +48,17 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 
 ### Software projects
 
-|||||
-|----|----|----|----|
-| **Full-Stack**  | | |
-|[**SoundCloud Clone**](https://github.com/mikezigberman/soundcloudclone) | SoundCloud clone (+ DRW practice) | ![](https://img.shields.io/badge/-python-blue) |
-|[**ToDo App**](https://github.com/mikezigberman/ToDoApp) | Todo Woo to help you make sense of all of your opportunities and live that life that matters most to you. | ![](https://img.shields.io/badge/-python-blue) |
-|[**Find Route**](https://github.com/mikezigberman/findroutedjango) | Route search site by given parameters. | ![](https://img.shields.io/badge/-python-blue) |
-|[**Forum**](https://github.com/mikezigberman/forumforgamersdjango) | Simple forum in django | ![](https://img.shields.io/badge/-python-blue) | | ![](https://img.shields.io/badge/-javascript-yellow)
-|[**OnlyFans Clone**](https://github.com/mikezigberman/onlyfansclone) | A clone of one website for 18+  | ![](https://img.shields.io/badge/-python-blue) |
-|[**E-commerce shop**](https://github.com/mikezigberman/onlineshop) | E-commerce shop | ![](https://img.shields.io/badge/-python-blue) |
+**Full-Stack**
+|  Project name  | Description | Technology |
+|---|---|---|
+| [**SoundCloud Clone**](https://github.com/mikezigberman/soundcloudclone) |  SoundCloud clone (+ DRW practice) | ![](https://img.shields.io/badge/-python-blue) |
+| [**StackOverflow Clone**](https://github.com/mikezigberman/stackoverflowclone) | Clone of a site with questions/answers for programmers | ![](https://img.shields.io/badge/-python-blue) |
+| [**Find Route**](https://github.com/mikezigberman/findroutedjango) | Route search site by given parameters. | ![](https://img.shields.io/badge/-python-blue) |
+| [**Forum**](https://github.com/mikezigberman/forumforgamersdjango) | Simple forum in django | ![](https://img.shields.io/badge/-python-blue) ![](https://img.shields.io/badge/-javascript-yellow) |
+| [**E-commerce shop**](https://github.com/mikezigberman/onlineshop) | E-commerce shop | ![](https://img.shields.io/badge/-python-blue) |
+| [**OnlyFans Clone**](https://github.com/mikezigberman/onlyfansclone) | A clone of one website for 18+ | ![](https://img.shields.io/badge/-python-blue) |
+| [**ToDo App**](https://github.com/mikezigberman/ToDoApp) | Todo Woo to help you make sense of all of your opportunities and live that life that matters most to you. | ![](https://img.shields.io/badge/-python-blue) |
+
 
 ### Stats
 
