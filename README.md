@@ -4,7 +4,7 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 
 [FIT](https://fit.cvut.cz/en) / Software Engineering &nbsp; ![](https://img.shields.io/badge/-Czech_Technical%20University-informational)
 
-🧑‍💻 Python (Django) Developer 
+🧑‍💻 Software Engineer
 
 <img src="https://gpvc.arturio.dev/mikezigberman" alt="Viewers"/> &nbsp; <!-- img src="https://img.shields.io/github/downloads/mikezigberman/areg-sdk/total.svg"/ -->
 
