@@ -59,8 +59,7 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 | [**E-commerce shop**](https://github.com/mikezigberman/onlineshop) | E-commerce shop | ![](https://img.shields.io/badge/-python-blue) |
 | [**OnlyFans Clone**](https://github.com/mikezigberman/onlyfansclone) | A clone of one website for 18+ | ![](https://img.shields.io/badge/-python-blue) |
 | [**ToDo App**](https://github.com/mikezigberman/ToDoApp) | Todo Woo to help you make sense of all of your opportunities and live that life that matters most to you. | ![](https://img.shields.io/badge/-python-blue) |
-
-
+              
 ### Stats
 
 <!-- ![Mike Zigberman github stats](https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
