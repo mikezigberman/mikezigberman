@@ -60,14 +60,16 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 
 |  Project name  | Description | Technology |
 |---|---|---|
-| [**Semester work (Programming and algorithmization)**](https://github.com/mikezigberman/sw_pa2) | Job title | ![](https://img.shields.io/badge/-c++-6EC93F) |
-| [**Semester work (Programming in Java)**](https://github.com/mikezigberman/sw_pjv) | Job title | ![](https://img.shields.io/badge/-java-BF281B) |
-| [**Semester work (Enterprise Java)**](https://github.com/mikezigberman/sw_eja) | Job title | ![](https://img.shields.io/badge/-java-BF281B) |
-| [**Find Route**](https://github.com/mikezigberman/building_and_planning_routes) | Route search site by given parameters. | ![](https://img.shields.io/badge/-python-blue) |
-| [**Forum**](https://github.com/mikezigberman/forumforgamersdjango) | Simple forum in django | ![](https://img.shields.io/badge/-python-blue) ![](https://img.shields.io/badge/-javascript-yellow) |
-| [**E-commerce shop**](https://github.com/mikezigberman/onlineshop) | E-commerce shop | ![](https://img.shields.io/badge/-python-blue) |
-| [**OnlyFans Clone**](https://github.com/mikezigberman/onlyfansclone) | A clone of one website for 18+ | ![](https://img.shields.io/badge/-python-blue) |
-| [**ToDo App**](https://github.com/mikezigberman/ToDoApp) | Todo Woo to help you make sense of all of your opportunities and live that life that matters most to you. | ![](https://img.shields.io/badge/-python-blue) |
+| [**Semester work (Programming and algorithmization)**](https://github.com/mikezigberman/sw_pa2) | Job title | ![](https://img.shields.io/badge/-C++-6EC93F) |
+| [**Semester work (Programming in Java)**](https://github.com/mikezigberman/sw_pjv) | Job title | ![](https://img.shields.io/badge/-Java-BF281B) |
+| [**Semester work (Enterprise Java)**](https://github.com/mikezigberman/sw_eja) | Job title | ![](https://img.shields.io/badge/-Java-BF281B) |
+| [**Semester work (Computer Networks)**](https://github.com/mikezigberman/sw_psi) | Job title | ![](https://img.shields.io/badge/-C++-6EC93F) |
+| [**Semester work (Database Systems)**](https://github.com/mikezigberman/sw_dbs) | Job title | ![](https://img.shields.io/badge/-PostgreSQL-0000F5) |
+| [**Find Route**](https://github.com/mikezigberman/building_and_planning_routes) | Route search site by given parameters. | ![](https://img.shields.io/badge/-Python-blue) |
+| [**Forum**](https://github.com/mikezigberman/forumforgamersdjango) | Simple forum in django | ![](https://img.shields.io/badge/-python-blue) ![](https://img.shields.io/badge/-Javascript-yellow) |
+| [**E-commerce shop**](https://github.com/mikezigberman/onlineshop) | E-commerce shop | ![](https://img.shields.io/badge/-Python-blue) |
+| [**OnlyFans Clone**](https://github.com/mikezigberman/onlyfansclone) | A clone of one website for 18+ | ![](https://img.shields.io/badge/-Python-blue) |
+| [**ToDo App**](https://github.com/mikezigberman/ToDoApp) | Todo Woo to help you make sense of all of your opportunities and live that life that matters most to you. | ![](https://img.shields.io/badge/-Python-blue) |
               
 ### Stats
 
