@@ -63,7 +63,7 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 | [**Semester work (Programming and algorithmization)**](https://github.com/mikezigberman/sw_pa2) | Job title | ![](https://img.shields.io/badge/-C++-6EC93F) |
 | [**Semester work (Programming in Java)**](https://github.com/mikezigberman/sw_pjv) | Job title | ![](https://img.shields.io/badge/-Java-D00000) |
 | [**Semester work (Enterprise Java)**](https://github.com/mikezigberman/sw_eja) | Job title | ![](https://img.shields.io/badge/-Java-D00000) |
-| [**Semester work (Computer Networks)**](https://github.com/mikezigberman/sw_psi) | Job title | ![](https://img.shields.io/badge/-C++-6EC93F) |
+| [**Semester work (Computer Networks)**](https://github.com/mikezigberman/sw_psi) | Multi-threaded server for TCP/IP | ![](https://img.shields.io/badge/-C++-6EC93F) |
 | [**Semester work (Database Systems)**](https://github.com/mikezigberman/sw_dbs) | Job title | ![](https://img.shields.io/badge/-PostgreSQL-0000F5) |
 | [**Find Route**](https://github.com/mikezigberman/building_and_planning_routes) | Route search site by given parameters. | ![](https://img.shields.io/badge/-Python-blue) |
 | [**Forum**](https://github.com/mikezigberman/forumforgamersdjango) | Simple forum in django | ![](https://img.shields.io/badge/-Python-blue) ![](https://img.shields.io/badge/-Javascript-yellow) |
