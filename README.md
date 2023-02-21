@@ -8,7 +8,7 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 
 <img src="https://gpvc.arturio.dev/mikezigberman" alt="Viewers"/> &nbsp; <!-- img src="https://img.shields.io/github/downloads/mikezigberman/areg-sdk/total.svg"/ -->
 
-### Skills
+### 🔧 Skills
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -22,13 +22,13 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 <!-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) -->
 <!-- ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI) -->
 
-### Databases
+### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+### ⚙️ Tools
 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -55,6 +55,18 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 <img align="left" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" /> -->
+
+<!-- ### 🏆 Awards: 
+* Best 'Programming technology' section presentation award 'Congress of Young Scientists' :clock130: 2021
+* Prize-winner in Software Engineering student olympiad 'Ya-Professional' :clock130: 2021, 2022
+* Prize-winner in Mathematics school olympiad 'Phystech' :clock130: 2019, 2020
+* Honored graduate of Samsung IT School :clock130: 2016 -->
+
+<!-- ### 🖼️ Certificates: 
+* Best 'Programming technology' section presentation award 'Congress of Young Scientists' :clock130: 2021
+* Prize-winner in Software Engineering student olympiad 'Ya-Professional' :clock130: 2021, 2022
+* Prize-winner in Mathematics school olympiad 'Phystech' :clock130: 2019, 2020
+* Honored graduate of Samsung IT School :clock130: 2016 -->
 
 ### Software projects
 
