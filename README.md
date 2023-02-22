@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | [Telegram](https://t.me/mikezigberman) | [LinkedIn](https://www.linkedin.com/in/mzigberman/?locale=en_US)
+My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | [Telegram](https://t.me/mikezigberman) | [LinkedIn](https://www.linkedin.com/in/mzigberman/?locale=en_US) | [LeetCode](https://leetcode.com/mikezigberman/)
 
 [FIT](https://fit.cvut.cz/en) / Software Engineering &nbsp; ![](https://img.shields.io/badge/-Czech_Technical%20University-informational)
 
