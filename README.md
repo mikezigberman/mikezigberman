@@ -88,7 +88,7 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 <!-- ![Mike Zigberman github stats](https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ![Mike Zigberman Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&count_private=true&theme=gruvbox) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact)](https://github.com/mikezigberman/github-readme-stats) -->
 
-| <a href="https://github.com/mikezigberman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Mike's GitHub stats" /></a> | <a href="https://github.com/mikezigberman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=dark&hide_border=true" /></a> |
+| [![Mike's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mikezigberman/github-readme-stats#gh-dark-mode-only)| <a href="https://github.com/mikezigberman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-
