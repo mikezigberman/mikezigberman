@@ -73,11 +73,9 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 
 |  Project name  | Description | Technology |
 |---|---|---|
-| [**Semester work (Programming and algorithmization)**](https://github.com/mikezigberman/sw_pa2) | Application Calendar | ![](https://img.shields.io/badge/-C++-6EC93F) |
 | [**Semester work (Programming in Java)**](https://github.com/mikezigberman/sw_pjv) | Email Client Service | ![](https://img.shields.io/badge/-Java-D00000) |
 | [**Semester work (Programming in Python)**](https://github.com/mikezigberman/sw_pyt) | Data Collection Service | ![](https://img.shields.io/badge/-Python-blue) |
 | [**Semester work (Enterprise Java)**](https://github.com/mikezigberman/sw_eja) | Online video platform | ![](https://img.shields.io/badge/-Java-D00000) |
-| [**Semester work (Computer Networks)**](https://github.com/mikezigberman/sw_psi) | Multi-threaded server for TCP/IP | ![](https://img.shields.io/badge/-Python-blue) |
 | [**Semester work (Database Systems)**](https://github.com/mikezigberman/sw_dbs) | Service for parsing vacancies for IT specialists | ![](https://img.shields.io/badge/-PostgreSQL-0000F5) |
 | [**Find Route**](https://github.com/mikezigberman/building_and_planning_routes) | Route search site by given parameters. | ![](https://img.shields.io/badge/-Python-blue) |
 | [**E-commerce shop**](https://github.com/mikezigberman/online-store) | Online Store | ![](https://img.shields.io/badge/-Python-blue) |
