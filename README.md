@@ -1,12 +1,36 @@
-### Hi! 👋
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | [Telegram](https://t.me/mikezigberman) | [LinkedIn](https://www.linkedin.com/in/mzigberman/?locale=en_US) | [LeetCode](https://leetcode.com/mikezigberman/)
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        <strong>My name is Mikhail Zigberman</strong>.<br>
+        🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/mzigberman/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://t.me/mikezigberman">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram" alt="Telegram">
+    </a>
+    <a href="https://leetcode.com/mikezigberman/">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a>
+</p>
 
-[FIT](https://fit.cvut.cz/en) / Software Engineering &nbsp; ![](https://img.shields.io/badge/-Czech_Technical%20University-informational)
+<p align="center">
+  <a href="https://fit.cvut.cz/en">
+        <img src="https://img.shields.io/badge/-Czech_Technical%20University-informational" alt="CTU">
+    </a>
+  / Software Engineering
+  <br>
+  🧑‍💻 Software Engineer
+</p>
 
-🧑‍💻 Software Engineer
-
-<img src="https://gpvc.arturio.dev/mikezigberman" alt="Viewers"/> &nbsp; <!-- img src="https://img.shields.io/github/downloads/mikezigberman/areg-sdk/total.svg"/ -->
+<p align="center">
+  <a href="https://github.com/mikezigberman">
+    <img src="https://komarev.com/ghpvc/?username=mikezigberman&color=blue&style=flat)" />
+  </a>
+</p>
 
 ### 🔧 Skills
 
@@ -18,9 +42,6 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-D00000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) -->
-<!-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) -->
-<!-- ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI) -->
 
 ### 🗄️ Databases
 
@@ -40,22 +61,6 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-
-<!-- <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="PostgeSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" /> -->
 
 <!-- ### 🏆 Awards: 
 * Best 'Programming technology' section presentation award 'Congress of Young Scientists' :clock130: 2021
@@ -82,13 +87,26 @@ My name is **Mikhail Zigberman**. 🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native | 
 | [**E-commerce shop**](https://github.com/mikezigberman/online-store) | Online Store | ![](https://img.shields.io/badge/-Python-blue) |
 | [**OnlyFans Clone**](https://github.com/mikezigberman/onlyfansclone) | A clone of one website for 18+ | ![](https://img.shields.io/badge/-Python-blue) |
 | [**Forum**](https://github.com/mikezigberman/forumforgamersdjango) | Simple forum in django | ![](https://img.shields.io/badge/-Python-blue) ![](https://img.shields.io/badge/-Javascript-yellow) |
-              
-### Stats
+             
+### Detailed statistics
+<p align="center">
+  <a href="https://github.com/mikezigberman">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikezigberman&theme=transparent" />
+  </a>
+  <a href="https://github.com/mikezigberman">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikezigberman&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/mikezigberman">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikezigberman&theme=transparent" />
+  </a>
+  <a href="https://github.com/mikezigberman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&langs_count=5&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
 
-<!-- ![Mike Zigberman github stats](https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Mike Zigberman Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&count_private=true&theme=gruvbox) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact)](https://github.com/mikezigberman/github-readme-stats) -->
-
-| [![Mike's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mikezigberman/github-readme-stats#gh-dark-mode-only)| <a href="https://github.com/mikezigberman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=dark&hide_border=true" /></a> |
+<!-- | [![Mike's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mikezigberman/github-readme-stats#gh-dark-mode-only)| <a href="https://github.com/mikezigberman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
+-->
+
+
+
