@@ -79,7 +79,7 @@
 |  Project name  | Description | Technology |
 |---|---|---|
 | [**Semester work (Programming in Java)**](https://github.com/mikezigberman/sw_pjv) | Email Client Service | ![](https://img.shields.io/badge/-Java-D00000) |
-| [**Semester work (Programming in Python)**](https://github.com/mikezigberman/sw_pyt) | Data Collection Service | ![](https://img.shields.io/badge/-Python-blue) |
+| [**Semester work (Programming in Python)**](https://github.com/mikezigberman/sw_pyt) | Game on PyGame: Tanks | ![](https://img.shields.io/badge/-Python-blue) |
 | [**Semester work (Enterprise Java)**](https://github.com/mikezigberman/sw_eja) | Bank Application | ![](https://img.shields.io/badge/-Java-D00000) ![](https://img.shields.io/badge/-Javascript-yellow) |
 | [**Semester work (Java Technology)**](https://github.com/mikezigberman/sw_tjv) | Online video platform | ![](https://img.shields.io/badge/-Java-D00000) |
 | [**Semester work (Database Systems)**](https://github.com/mikezigberman/sw_dbs) | Service for parsing vacancies for IT specialists | ![](https://img.shields.io/badge/-PostgreSQL-0000F5) |
