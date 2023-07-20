@@ -90,23 +90,78 @@
              
 ### Detailed statistics
 <p align="center">
-  <a href="https://github.com/mikezigberman">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikezigberman&theme=transparent" />
-  </a>
-  <a href="https://github.com/mikezigberman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikezigberman&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/mikezigberman">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikezigberman&theme=transparent" />
-  </a>
-  <a href="https://github.com/mikezigberman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&langs_count=5&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+    <a href="https://github.com/mikezigberman">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikezigberman&theme=transparent" />
+    </a>
+    <a href="https://github.com/mikezigberman">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikezigberman&hide_border=true&card_width=338&theme=transparent"/>
+    </a>
+    <a href="https://github.com/mikezigberman">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikezigberman&theme=transparent" />
+    </a>
+    <br>
+    <a href="https://github.com/mikezigberman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=transparent&hide_border=true"/>
+    </a>
+        <img src="https://stats.justsong.cn/api/leetcode/?username=mikezigberman&theme=transparent" alt="Mike's LeetCode Stats" width="35%" />
 </p>
+<br>
+<table>
+    <thead align="center">
+        <tr border: none;>
+            <td>
+                <b>:pushpin: Name</b>
+            </td>
+            <td>
+                <b>:star: Stars</b>
+            </td>
+            <td>
+                <b>:sparkles: Forks</b>
+            </td>
+            <td>
+                <b>:wrench: Technology</b>
+            </td>
+            <td>
+                <b>:clock1: Last Commits</b>
+            </td>
+            <td>
+                <b>:briefcase: Repo Size</b>
+            </td>
+            <td>
+                <b>:globe_with_meridians: Live Link</b>
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/mikezigberman/sw_pjv"> 
+                    <b>Email Client Service</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/sw_pjv"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/sw_pjv"/>
+            </td>
+            td>
+                <img alt="Technology" src="![](https://img.shields.io/badge/-Java-D00000)"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/sw_pjv"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mikezigberman/sw_pjv"/>
+            </td>
+            <td>
+                <a href="https://mikezigberman.github.io/sw_pjv/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmontasim.github.io/eat-fresh"/>
+                </a>
+            </td>
+        </tr>
+</table>
 
-<!-- | [![Mike's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mikezigberman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mikezigberman/github-readme-stats#gh-dark-mode-only)| <a href="https://github.com/mikezigberman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
--->
+
 
 
 
