@@ -76,35 +76,6 @@
 
 ### Software projects
 
-|  Project name  | Description | Technology |
-|---|---|---|
-| [**Semester work (Programming in Java)**](https://github.com/mikezigberman/sw_pjv) | Email Client Service | ![](https://img.shields.io/badge/-Java-D00000) |
-| [**Semester work (Enterprise Java)**](https://github.com/mikezigberman/sw_eja) | Bank Application | ![](https://img.shields.io/badge/-Java-D00000) ![](https://img.shields.io/badge/-Javascript-yellow) |
-| [**Semester work (Java Technology)**](https://github.com/mikezigberman/sw_tjv) | Online video platform | ![](https://img.shields.io/badge/-Java-D00000) |
-| [**Semester work (Database Systems)**](https://github.com/mikezigberman/sw_dbs) | Service for parsing vacancies for IT specialists | ![](https://img.shields.io/badge/-PostgreSQL-0000F5) |
-| [**Educational online platform**](https://github.com/mikezigberman/educational_online_platform) | Educational online platform with CMS | ![](https://img.shields.io/badge/-Python-blue) |
-| [**Social network**](https://github.com/mikezigberman/social_network) | Social network for viewing photos | ![](https://img.shields.io/badge/-Python-blue) |
-| [**Find Route**](https://github.com/mikezigberman/building_and_planning_routes) | Route search site by given parameters. | ![](https://img.shields.io/badge/-Python-blue) |
-| [**OnlyFans Clone**](https://github.com/mikezigberman/onlyfansclone) | A clone of one website for 18+ | ![](https://img.shields.io/badge/-Python-blue) |
-| [**Forum**](https://github.com/mikezigberman/forumforgamersdjango) | Simple forum in django | ![](https://img.shields.io/badge/-Python-blue) ![](https://img.shields.io/badge/-Javascript-yellow) |
-             
-### Detailed statistics
-<p align="center">
-    <a href="https://github.com/mikezigberman">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikezigberman&theme=transparent" />
-    </a>
-    <a href="https://github.com/mikezigberman">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikezigberman&hide_border=true&card_width=338&theme=transparent"/>
-    </a>
-    <a href="https://github.com/mikezigberman">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikezigberman&theme=transparent" />
-    </a>
-    <br>
-    <a href="https://github.com/mikezigberman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=transparent&hide_border=true"/>
-    </a>
-        <img src="https://stats.justsong.cn/api/leetcode/?username=mikezigberman&theme=transparent" alt="Mike's LeetCode Stats" width="35%" />
-</p>
-<br>
 <table>
     <thead align="center">
         <tr border: none;>
@@ -144,8 +115,8 @@
             <td>
                 <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/sw_pjv"/>
             </td>
-            td>
-                <img alt="Technology" src="![](https://img.shields.io/badge/-Java-D00000)"/>
+            <td>
+                <img alt="Technology" src="https://img.shields.io/badge/-Java-D00000"/>
             </td>
             <td>
                 <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/sw_pjv"/>
@@ -155,13 +126,252 @@
             </td>
             <td>
                 <a href="https://mikezigberman.github.io/sw_pjv/">
-                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmontasim.github.io/eat-fresh"/>
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmikezigberman.github.io/sw_pjv"/>
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mikezigberman/sw_eja"> 
+                    <b>Bank Application</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/sw_eja"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/sw_eja"/>
+            </td>
+            <td>
+                <img alt="Technology" src="https://img.shields.io/badge/-Java-D00000"/>
+                <img alt="Technology" src="https://img.shields.io/badge/-Javascript-yellow"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/sw_eja"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mikezigberman/sw_eja"/>
+            </td>
+            <td>
+                <a href="https://mikezigberman.github.io/sw_eja/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmikezigberman.github.io/sw_eja"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mikezigberman/sw_tjv"> 
+                    <b>Online video platform</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/sw_tjv"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/sw_tjv"/>
+            </td>
+            <td>
+                <img alt="Technology" src="https://img.shields.io/badge/-Java-D00000"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/sw_tjv"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mikezigberman/sw_tjv"/>
+            </td>
+            <td>
+                <a href="https://mikezigberman.github.io/sw_tjv/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmikezigberman.github.io/sw_tjv"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mikezigberman/sw_dbs"> 
+                    <b>Service for parsing vacancies for IT specialists</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/sw_dbs"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/sw_dbs"/>
+            </td>
+            <td>
+                <img alt="Technology" src="https://img.shields.io/badge/-PostgreSQL-0000F5"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/sw_dbs"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mikezigberman/sw_dbs"/>
+            </td>
+            <td>
+                <a href="https://mikezigberman.github.io/sw_dbs/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmikezigberman.github.io/sw_dbs"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mikezigberman/educational_online_platform"> 
+                    <b>Educational online platform with CMS</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/educational_online_platform"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/educational_online_platform"/>
+            </td>
+            <td>
+                <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/educational_online_platform"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mikezigberman/educational_online_platform"/>
+            </td>
+            <td>
+                <a href="https://mikezigberman.github.io/educational_online_platform/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmikezigberman.github.io/educational_online_platform"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mikezigberman/social_network"> 
+                    <b>Social network for viewing photos</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/social_network"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/social_network"/>
+            </td>
+            <td>
+                <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
+                <img alt="Technology" src="https://img.shields.io/badge/-Javascript-yellow"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/social_network"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mikezigberman/social_network"/>
+            </td>
+            <td>
+                <a href="https://mikezigberman.github.io/social_network/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmikezigberman.github.io/social_network"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mikezigberman/building_and_planning_routes"> 
+                    <b>Find Route</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/building_and_planning_routes"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/building_and_planning_routes"/>
+            </td>
+            <td>
+                <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/building_and_planning_routes"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mikezigberman/building_and_planning_routes"/>
+            </td>
+            <td>
+                <a href="https://mikezigberman.github.io/building_and_planning_routes/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmikezigberman.github.io/building_and_planning_routes"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mikezigberman/onlyfansclone"> 
+                    <b>OnlyFans Clone</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/onlyfansclone"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/onlyfansclone"/>
+            </td>
+            <td>
+                <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/onlyfansclone"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mikezigberman/onlyfansclone"/>
+            </td>
+            <td>
+                <a href="https://mikezigberman.github.io/onlyfansclone/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmikezigberman.github.io/onlyfansclone"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mikezigberman/forumforgamersdjango"> 
+                    <b>Forum</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/forumforgamersdjango"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/forumforgamersdjango"/>
+            </td>
+            <td>
+                <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
+                <img alt="Technology" src="https://img.shields.io/badge/-Javascript-yellow"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/forumforgamersdjango"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mikezigberman/forumforgamersdjango"/>
+            </td>
+            <td>
+                <a href="https://mikezigberman.github.io/forumforgamersdjango/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmikezigberman.github.io/forumforgamersdjango"/>
+                </a>
+            </td>
+        </tr>
+    </tbody>
 </table>
-
-
+             
+### Detailed statistics
+<p align="center">
+    <a href="https://github.com/mikezigberman">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikezigberman&theme=transparent" />
+    </a>
+    <a href="https://github.com/mikezigberman">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikezigberman&hide_border=true&card_width=338&theme=transparent"/>
+    </a>
+    <a href="https://github.com/mikezigberman">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikezigberman&theme=transparent" />
+    </a>
+    <br>
+    <a href="https://github.com/mikezigberman/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=transparent&hide_border=true"/>
+    </a>
+    <a>
+        <img src="https://stats.justsong.cn/api/leetcode/?username=mikezigberman&theme=transparent" alt="Mike's LeetCode Stats" width="30%"/>
+    </a>
+</p>
+<br>
 
 
 
