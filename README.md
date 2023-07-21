@@ -1,4 +1,5 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! 👋 </h1>
+    <!-- <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"> -->
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -355,23 +356,20 @@
 ### Detailed statistics
 <p align="center">
     <a href="https://github.com/mikezigberman">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikezigberman&theme=transparent" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikezigberman&theme=dark" />
     </a>
     <a href="https://github.com/mikezigberman">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikezigberman&hide_border=true&card_width=338&theme=transparent"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikezigberman&hide_border=true&card_width=338&theme=dark"/>
     </a>
     <a href="https://github.com/mikezigberman">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikezigberman&theme=transparent" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikezigberman&theme=dark" />
     </a>
     <br>
     <a href="https://github.com/mikezigberman/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=transparent&hide_border=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=dark&hide_border=true&card_width=338"/>
     </a>
     <a>
-        <img src="https://stats.justsong.cn/api/leetcode/?username=mikezigberman&theme=transparent" alt="Mike's LeetCode Stats" width="30%"/>
+        <img src="https://stats.justsong.cn/api/leetcode/?username=mikezigberman&theme=dark2&card_width=338" alt="Mike's LeetCode Stats" width="31%"/>
     </a>
 </p>
 <br>
-
-
-
