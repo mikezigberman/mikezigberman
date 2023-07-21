@@ -369,7 +369,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezigberman&layout=compact&theme=dark&hide_border=true&card_width=338"/>
     </a>
     <a>
-        <img src="https://stats.justsong.cn/api/leetcode/?username=mikezigberman&theme=dark2&card_width=338" alt="Mike's LeetCode Stats" width="31%"/>
+        <img src="https://stats.justsong.cn/api/leetcode/?username=mikezigberman&theme=dark2&card_width=338" alt="Mike's LeetCode Stats" width="40%"/>
     </a>
 </p>
 <br>
