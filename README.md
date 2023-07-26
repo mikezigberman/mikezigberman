@@ -87,9 +87,6 @@
                 <b>:star: Stars</b>
             </td>
             <td>
-                <b>:sparkles: Forks</b>
-            </td>
-            <td>
                 <b>:wrench: Technology</b>
             </td>
             <td>
@@ -114,9 +111,6 @@
                 <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/sw_pjv"/>
             </td>
             <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/sw_pjv"/>
-            </td>
-            <td>
                 <img alt="Technology" src="https://img.shields.io/badge/-Java-D00000"/>
             </td>
             <td>
@@ -139,9 +133,6 @@
             </td>
             <td>
                 <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/sw_eja"/>
-            </td>
-            <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/sw_eja"/>
             </td>
             <td>
                 <img alt="Technology" src="https://img.shields.io/badge/-Java-D00000"/>
@@ -169,9 +160,6 @@
                 <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/sw_tjv"/>
             </td>
             <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/sw_tjv"/>
-            </td>
-            <td>
                 <img alt="Technology" src="https://img.shields.io/badge/-Java-D00000"/>
             </td>
             <td>
@@ -194,9 +182,6 @@
             </td>
             <td>
                 <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/sw_dbs"/>
-            </td>
-            <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/sw_dbs"/>
             </td>
             <td>
                 <img alt="Technology" src="https://img.shields.io/badge/-PostgreSQL-0000F5"/>
@@ -223,9 +208,6 @@
                 <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/educational_online_platform"/>
             </td>
             <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/educational_online_platform"/>
-            </td>
-            <td>
                 <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
             </td>
             <td>
@@ -248,9 +230,6 @@
             </td>
             <td>
                 <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/social_network"/>
-            </td>
-            <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/social_network"/>
             </td>
             <td>
                 <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
@@ -278,9 +257,6 @@
                 <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/building_and_planning_routes"/>
             </td>
             <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/building_and_planning_routes"/>
-            </td>
-            <td>
                 <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
             </td>
             <td>
@@ -305,9 +281,6 @@
                 <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/onlyfansclone"/>
             </td>
             <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/onlyfansclone"/>
-            </td>
-            <td>
                 <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
             </td>
             <td>
@@ -330,9 +303,6 @@
             </td>
             <td>
                 <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/forumforgamersdjango"/>
-            </td>
-            <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/mikezigberman/forumforgamersdjango"/>
             </td>
             <td>
                 <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
