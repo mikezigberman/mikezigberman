@@ -233,7 +233,6 @@
             </td>
             <td>
                 <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
-                <img alt="Technology" src="https://img.shields.io/badge/-Javascript-yellow"/>
             </td>
             <td>
                 <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/social_network"/>
