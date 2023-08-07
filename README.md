@@ -153,7 +153,7 @@
         <tr>
             <td>
                 <a href="https://github.com/mikezigberman/sw_tjv"> 
-                    <b>Social network for establishing business contacts</b>
+                    <b>LinkedIn Clone</b>
                 </a>
             </td>
             <td>
