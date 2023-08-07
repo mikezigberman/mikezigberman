@@ -153,7 +153,7 @@
         <tr>
             <td>
                 <a href="https://github.com/mikezigberman/sw_tjv"> 
-                    <b>Online video platform</b>
+                    <b>Social network for establishing business contacts</b>
                 </a>
             </td>
             <td>
