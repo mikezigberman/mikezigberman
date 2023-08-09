@@ -296,25 +296,25 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/mikezigberman/stock-market-real-time-data-analysis"> 
-                    <b>Stock market real-time data analysis</b>
+                <a href="https://github.com/mikezigberman/ml-projects"> 
+                    <b>ML projects</b>
                 </a>
             </td>
             <td>
-                <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/stock-market-real-time-data-analysis"/>
+                <img alt="Stars" src="https://img.shields.io/github/stars/mikezigberman/ml-projects"/>
             </td>
             <td>
                 <img alt="Technology" src="https://img.shields.io/badge/-Python-blue"/>
             </td>
             <td>
-                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/stock-market-real-time-data-analysis"/>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/mikezigberman/ml-projects"/>
             </td>
             <td>
-                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mikezigberman/stock-market-real-time-data-analysis"/>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mikezigberman/ml-projects"/>
             </td>
             <td>
-                <a href="https://mikezigberman.github.io/stock-market-real-time-data-analysis/">
-                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmikezigberman.github.io/stock-market-real-time-data-analysis"/>
+                <a href="https://mikezigberman.github.io/ml-projects/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmikezigberman.github.io/ml-projects"/>
                 </a>
             </td>
         </tr>
