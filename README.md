@@ -5,7 +5,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         <strong>My name is Mikhail Zigberman</strong>.<br>
-        🇬🇧 B1 | 🇨🇿 B2 | 🇷🇺 Native<br>
+        🇬🇧 B2 | 🇨🇿 B2 | 🇷🇺 Native<br>
     </i><br>
     <a href="https://www.linkedin.com/in/mzigberman/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
